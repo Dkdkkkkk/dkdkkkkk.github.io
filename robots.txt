@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://doudoudelaodahaha.github.io//sitemap.xml
