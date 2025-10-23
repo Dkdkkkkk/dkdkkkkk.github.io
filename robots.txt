@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Dkdkkkk.github.io//sitemap.xml
+Sitemap: https://dkdkkkk.github.io//sitemap.xml
